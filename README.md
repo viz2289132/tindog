@@ -1,2 +1,1 @@
-# tindog
-This is a clone named tindog
+TinDog Starting Files
